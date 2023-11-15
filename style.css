@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#me{
+    visibility: hidden;
+    transform: scale(0.2,0.2);
+}
+
